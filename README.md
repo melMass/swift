@@ -1,7 +1,3 @@
-# swift
-Learning Swift 3
-
-
 ## Playgrounds
 ### Basic
 #####Simple Circle Gradient:
